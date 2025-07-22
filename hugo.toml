@@ -1,0 +1,30 @@
+baseURL = "https://dbb.tw"
+title = "天天放空"
+theme = "PaperMod"
+
+languageCode = "zh-tw"
+defaultContentLanguage = "zh-tw"
+hasCJKLanguage = true
+enableRobotsTXT = true
+
+[params.footer]
+  copyright = "© 2025 天天放空 — All rights reserved."
+  poweredby = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  name = "分類"
+  url = "/categories/"
+  weight = 10
+
+[[menu.main]]
+  name = "標籤"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  name = "關於我"
+  url = "/about/"
+  weight = 30
