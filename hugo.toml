@@ -6,6 +6,7 @@ languageCode = "zh-tw"
 defaultContentLanguage = "zh-tw"
 hasCJKLanguage = true
 enableRobotsTXT = true
+googleAnalytics = "G-9S0DRXDL6T"
 
 [params.footer]
   copyright = "© 2025 天天放空 — All rights reserved."
