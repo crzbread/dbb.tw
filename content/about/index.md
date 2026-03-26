@@ -10,3 +10,6 @@ Hi，我是 DBB。
 附上一張我家的貓，他叫做憨吉。他雖然只會吃飯睡覺鬼叫，但很可愛。
 
 ![hanji.jpg](hanji.jpg)
+
+如果看了文章有什麼問題，真的想聯絡我，可以透過表單。
+- [Google表單](https://forms.gle/97gZSavCfyM4S8eRA)
