@@ -5,8 +5,9 @@ slug: "the-remains-of-the-day"
 tags: ["讀書心得"]
 categories: ["心得"]
 description: ""
+cover:
+  image: "sunset_cat_by_the_sea_anime_style.jpg"
 ---
-![sunset_cat_by_the_sea_anime_style.jpg](sunset_cat_by_the_sea_anime_style.jpg)
 ## 前言
 
 前一陣子莫名陷入一種倦怠感，上班覺得疲倦，下班沒有目標。

@@ -5,9 +5,9 @@ slug: "run-with-the-wind"
 tags: ["觀影心得"]
 categories: ["心得"]
 description: ""
+cover:
+  image: "run-with-the-wind.jpg"
 ---
-
-![run-with-the-wind.jpg](run-with-the-wind.jpg)
 
 ***說的是跑步，談的其實是人生。***
 
@@ -42,4 +42,3 @@ description: ""
 「只是無論怎樣 都只管埋頭去做」
 
 在這個嘴巴比行動快的時代，我很喜歡這種認真的人。 我一直覺得，行動本身也是意義產生的過程，而真正能被相信的，從來不是說出來的話，而是做出來的事。
-

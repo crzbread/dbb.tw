@@ -5,8 +5,9 @@ slug: "four-thousand-weeks"
 tags: ["讀書心得"]
 categories: ["心得"]
 description: ""
+cover:
+  image: "orange-cat-cozy-mindful-life.jpg"
 ---
-![orange-cat-cozy-mindful-life.jpg](orange-cat-cozy-mindful-life.jpg)
 ## 前言
 
 我們都知道人生最後都會走向終點，但其實都只是概念上的理解，並沒有真正意識到時間的有限性，也沒有把「好好活著」當作一回事。往往要到某一個轉折，才驚覺人生沒有想像中的長。在這個前提下，這本書就是在告訴我們如何正視這個問題，並且好好生活。

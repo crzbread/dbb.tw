@@ -5,6 +5,8 @@ slug: "lose-weight-with-chatgpt"
 tags: ["減肥", "日常", "ChatGPT"]
 categories: ["記錄"]
 description: ""
+cover:
+  image: "diet-cat.jpg"
 ---
 
 ## 前言
@@ -50,8 +52,6 @@ description: ""
 我當下聽到的時候，其實大概就聽進去不到一半，我覺得應該沒這麼簡單，感覺她應該是使用了什麼極端的意志力之類的才瘦下來。不過基於好奇心，我當天中午吃午餐的時候就順便拍一張照片給 ChatGPT 讓他看看。
 
 不看不知道，一看嚇一跳，我以為我吃的很含蓄，結果遠超過我的預期，當時的對話紀錄如下圖：
-
-![first-food-photo.png](first-food-photo.png)
 
 基礎代謝當時大約一天是 1800 一餐就炸掉，難怪越吃越胖。
 

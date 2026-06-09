@@ -5,9 +5,9 @@ slug: "running-became-the-point"
 tags: ["跑步"]
 categories: ["心得"]
 description: ""
+cover:
+  image: "orange_tabby_riverside_run.jpg"
 ---
-![orange_tabby_riverside_run](orange_tabby_riverside_run.jpg)
-
 ## 跑步緣起
 
 前一陣子離職之後，被我妹抓去美國當狗保母。整天在家遊手好閒的，她丟下一句：「不然你去跑步看看。」
