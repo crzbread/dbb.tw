@@ -1,0 +1,32 @@
+{{- define "main" }}
+
+<article class="about-page">
+  <header class="about-profile about-hero">
+    {{- with .Resources.GetMatch "profile.jpeg" }}
+    <figure class="about-portrait">
+      <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="DBB 的個人照片">
+    </figure>
+    {{- end }}
+
+    <div class="about-intro">
+      <p class="about-kicker">About</p>
+      <h1>{{ .Title }}</h1>
+      {{- with .Params.intro }}
+      <p class="about-lead">{{ . }}</p>
+      {{- end }}
+
+      {{- with .Params.links }}
+      <nav class="about-links" aria-label="個人連結">
+        {{- range . }}
+        <a href="{{ .url }}" {{ if ne .url "#" }}target="_blank" rel="noopener noreferrer"{{ end }}>
+          {{ .label }}
+          <span aria-hidden="true">↗</span>
+        </a>
+        {{- end }}
+      </nav>
+      {{- end }}
+    </div>
+  </header>
+</article>
+
+{{- end }}

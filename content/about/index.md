@@ -1,15 +1,13 @@
 ---
 title: "關於我"
 date: 2025-07-22
+layout: "about"
+intro: "Hi，我是 DBB。沒什麼特別的故事，就是偶爾想寫點東西，也不知道會寫多久，隨緣更新。如果看完文章有任何問題，歡迎填寫表單與我聯絡。"
+links:
+  - label: "聯絡表單"
+    url: "https://forms.gle/97gZSavCfyM4S8eRA"
+  - label: "故事調製所"
+    url: "https://story.dbb.tw/"
+  - label: "Github"
+    url: "https://github.com/crzbread"
 ---
-
-Hi，我是 DBB。
-沒什麼特別的故事，就是偶爾想寫點東西。
-能寫多久不知道，先放著看看。
-
-附上一張我家的貓，他叫做憨吉。他雖然只會吃飯睡覺鬼叫，但很可愛。
-
-![hanji.jpg](hanji.jpg)
-
-如果看了文章有什麼問題，真的想聯絡我，可以透過表單。
-- [Google表單](https://forms.gle/97gZSavCfyM4S8eRA)
