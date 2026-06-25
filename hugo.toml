@@ -19,16 +19,21 @@ googleAnalytics = "G-9S0DRXDL6T"
   home = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
-  name = "分類"
+  name = "Categories"
   url = "/categories/"
   weight = 10
 
 [[menu.main]]
-  name = "標籤"
+  name = "Tags"
   url = "/tags/"
   weight = 20
 
 [[menu.main]]
-  name = "關於我"
-  url = "/about/"
+  name = "Archive"
+  url = "/archives/"
   weight = 30
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 40
