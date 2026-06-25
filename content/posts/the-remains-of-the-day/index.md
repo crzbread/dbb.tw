@@ -6,7 +6,7 @@ tags: ["讀書心得"]
 categories: ["心得"]
 description: ""
 cover:
-  image: "sunset_cat_by_the_sea_anime_style.jpg"
+  image: "cover.jpg"
 ---
 ## 前言
 
