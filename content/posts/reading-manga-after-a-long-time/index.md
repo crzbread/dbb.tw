@@ -7,6 +7,7 @@ categories: ["碎碎念"]
 description: ""
 cover:
   image: "instant-noodles.png"
+  relative: true
 ---
 
 

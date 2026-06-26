@@ -10,6 +10,7 @@ googleAnalytics = "G-9S0DRXDL6T"
 
 [params]
   ShowPostNavLinks = true
+  images = ["/og-default.jpg"]
 
 [params.footer]
   copyright = "© 2025 天天放空 — All rights reserved."

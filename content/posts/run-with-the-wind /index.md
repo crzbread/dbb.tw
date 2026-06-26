@@ -7,6 +7,7 @@ categories: ["心得"]
 description: ""
 cover:
   image: "run-with-the-wind.jpg"
+  relative: true
 ---
 
 ***說的是跑步，談的其實是人生。***

@@ -5,6 +5,7 @@ tags: ["未分類"]
 categories: ["小記"]  
 cover:
   image: "cover.jpg"
+  relative: true
 ---
 
 這是值得紀念的第一篇文章。

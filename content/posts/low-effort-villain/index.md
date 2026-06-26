@@ -7,6 +7,7 @@ categories: ["碎碎念"]
 description: ""
 cover:
   image: "low-effort-cat.jpg"
+  relative: true
 ---
 ## 前言
 

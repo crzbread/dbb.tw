@@ -7,6 +7,7 @@ categories: ["心得"]
 description: ""
 cover:
   image: "xiao_xie.jpg"
+  relative: true
 ---
 如果問最近在忙什麼，大概就是等上班，寫讀書心得，看電工小謝吧。這是我近期看過最好看的影片，我應該看了超過20次了，很難相信會有一個影片短時間讓我看那麼多次。
 

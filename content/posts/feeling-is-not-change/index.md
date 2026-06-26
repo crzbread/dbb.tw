@@ -7,6 +7,7 @@ categories: ["碎碎念"]
 description: ""
 cover:
   image: "moved-not-changed.jpg"
+  relative: true
 ---
 
 最近比較閒，看了一些書和文章，有關於改變自己的，也有關於仇恨如何延續的。

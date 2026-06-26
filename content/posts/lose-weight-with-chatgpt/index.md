@@ -7,6 +7,7 @@ categories: ["記錄"]
 description: ""
 cover:
   image: "diet-cat.jpg"
+  relative: true
 ---
 
 ## 前言

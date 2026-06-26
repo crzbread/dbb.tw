@@ -7,6 +7,7 @@ categories: ["心得"]
 description: ""
 cover:
   image: "cover.jpg"
+  relative: true
 ---
 ## 前言
 

@@ -7,6 +7,7 @@ categories: ["碎碎念"]
 description: ""
 cover:
   image: "cover.jpg"
+  relative: true
 ---
 
 今天下了一天的雨。

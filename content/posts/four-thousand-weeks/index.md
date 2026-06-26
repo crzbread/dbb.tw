@@ -7,6 +7,7 @@ categories: ["心得"]
 description: ""
 cover:
   image: "orange-cat-cozy-mindful-life.jpg"
+  relative: true
 ---
 ## 前言
 

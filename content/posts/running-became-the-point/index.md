@@ -7,6 +7,7 @@ categories: ["心得"]
 description: ""
 cover:
   image: "orange_tabby_riverside_run.jpg"
+  relative: true
 ---
 ## 跑步緣起
 

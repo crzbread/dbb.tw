@@ -7,6 +7,7 @@ categories: ["心得"]
 description: ""
 cover:
   image: "cover.jpg"
+  relative: true
 ---
 
 ## 關於人與人連結
