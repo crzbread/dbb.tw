@@ -1,9 +1,9 @@
 ---
-title: "人生4千個禮拜讀後感"
+title: "人生4千個禮拜"
 date: 2026-04-01T14:00:00+08:00
 slug: "four-thousand-weeks"
 tags: ["讀書心得"]
-categories: ["心得"]
+categories: ["看了什麼"]
 description: ""
 cover:
   image: "orange-cat-cozy-mindful-life.jpg"

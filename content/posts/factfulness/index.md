@@ -3,7 +3,7 @@ title: "真確"
 date: 2026-04-16T10:00:00+08:00
 slug: "factfulness"
 tags: ["讀書心得"]
-categories: ["心得"]
+categories: ["看了什麼"]
 description: ""
 cover:
   image: "cover.jpg"

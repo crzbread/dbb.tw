@@ -2,8 +2,8 @@
 title: "一個叫歐維的男人決定去死"
 date: 2026-04-09T10:00:00+08:00
 slug: "en-man-som-heter-ove"
-tags: ["讀書心得"]
-categories: ["心得"]
+tags: ["讀書心得","小說"]
+categories: ["看了什麼"]
 description: ""
 cover:
   image: "cover.jpg"

@@ -3,7 +3,7 @@ title: "大橘、跑步，還有一雙跑鞋"
 date: 2026-06-23T23:00:00+08:00
 slug: "orange-cat-running-shoes"
 tags: ["日常","碎碎念","跑步"]
-categories: ["碎碎念"]
+categories: ["日常小事"]
 description: ""
 cover:
   image: "topo_shoes.jpg"

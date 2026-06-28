@@ -3,7 +3,7 @@ title: "久違的看漫畫"
 date: 2026-06-20T08:00:00+08:00
 slug: "reading-manga-after-a-long-time"
 tags: ["日常","碎碎念"]
-categories: ["碎碎念"]
+categories: ["日常小事"]
 description: ""
 cover:
   image: "instant-noodles.png"

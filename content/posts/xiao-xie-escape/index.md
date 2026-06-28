@@ -3,7 +3,7 @@ title: "電工小謝 逃跑故事"
 date: 2026-04-15T13:00:00+08:00
 slug: "xiao-xie-escape"
 tags: ["心得"]
-categories: ["心得"]
+categories: ["看了什麼"]
 description: ""
 cover:
   image: "xiao_xie.jpg"

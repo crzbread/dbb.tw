@@ -1,9 +1,9 @@
 ---
-title: "長日將盡讀後感"
+title: "長日將盡"
 date: 2025-08-04T22:00:00+08:00
 slug: "the-remains-of-the-day"
 tags: ["讀書心得"]
-categories: ["心得"]
+categories: ["看了什麼"]
 description: ""
 cover:
   image: "cover.jpg"

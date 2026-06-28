@@ -1,9 +1,9 @@
 ---
-title: "強風吹拂讀後感"
+title: "強風吹拂"
 date: 2026-03-30T08:00:00+08:00
 slug: "run-with-the-wind"
 tags: ["觀影心得"]
-categories: ["心得"]
+categories: ["看了什麼"]
 description: ""
 cover:
   image: "run-with-the-wind.jpg"

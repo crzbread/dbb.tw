@@ -3,7 +3,7 @@ title: "省力的壞人"
 date: 2026-06-09T12:00:00+08:00
 slug: "low-effort-villain"
 tags: ["日常","碎碎念"]
-categories: ["碎碎念"]
+categories: ["一些想法"]
 description: ""
 cover:
   image: "low-effort-cat.jpg"

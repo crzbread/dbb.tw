@@ -2,8 +2,8 @@
 title: "感動不是改變"
 date: 2026-06-23T18:00:00+08:00
 slug: "feeling-is-not-change"
-tags: ["碎碎念","日常"]
-categories: ["碎碎念"]
+tags: ["碎碎念","感受"]
+categories: ["一些想法"]
 description: ""
 cover:
   image: "moved-not-changed.jpg"

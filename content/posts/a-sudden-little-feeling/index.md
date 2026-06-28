@@ -3,7 +3,7 @@ title: "突然感動一下"
 date: 2026-06-25T22:00:00+08:00
 slug: "a-sudden-little-feeling"
 tags: ["日常", "家人", "回家"]
-categories: ["碎碎念"]
+categories: ["日常小事"]
 description: ""
 cover:
   image: "cover.jpg"

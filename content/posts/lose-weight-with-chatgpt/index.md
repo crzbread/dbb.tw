@@ -2,8 +2,8 @@
 title: "用 ChatGPT 減肥的這段時間"
 date: 2025-07-23T22:00:00+08:00
 slug: "lose-weight-with-chatgpt"
-tags: ["減肥", "日常", "ChatGPT"]
-categories: ["記錄"]
+tags: ["減肥", "AI"]
+categories: ["其他東西"]
 description: ""
 cover:
   image: "diet-cat.jpg"

@@ -3,7 +3,7 @@ title: "當跑步成為目的"
 date: 2026-02-23T22:00:00+08:00
 slug: "running-became-the-point"
 tags: ["跑步"]
-categories: ["心得"]
+categories: ["一些想法"]
 description: ""
 cover:
   image: "orange_tabby_riverside_run.jpg"

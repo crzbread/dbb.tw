@@ -2,8 +2,8 @@
 title: "2020 Macbook Pro 安裝 stable diffusion"
 date: 2023-07-06T12:00:00+08:00
 slug: "2020-mbp-stable-diffusion"
-tags: ["廢話","AI"]
-categories: [""]
+tags: ["AI","畫圖","貓咪"]
+categories: ["其他東西"]
 description: ""
 cover:
   image: "cover.jpg"

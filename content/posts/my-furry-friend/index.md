@@ -3,7 +3,7 @@ title: "2024年 我養了一隻橘貓"
 date: 2024-01-17T12:00:00+08:00
 slug: "my-furry-friend-2024"
 tags: ["廢話","日常","hanji"]
-categories: ["碎碎念"]
+categories: ["日常小事"]
 description: ""
 cover:
   image: "cover.jpg"
@@ -51,5 +51,3 @@ cover:
 看起來淚眼汪汪的是因為眼睛發炎 背後沒有什麼令人動容的故事
 
 ![憨吉](hanji.jpg)
-
-

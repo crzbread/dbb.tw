@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2025-07-21T15:00:00+08:00
 tags: ["未分類"]
-categories: ["小記"]  
+categories: ["其他東西"]  
 cover:
   image: "cover.jpg"
   relative: true

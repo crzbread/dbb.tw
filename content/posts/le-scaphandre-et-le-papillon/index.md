@@ -2,8 +2,8 @@
 title: "潛水鐘與蝴蝶"
 date: 2026-05-03T10:00:00+08:00
 slug: "le-scaphandre-et-le-papillon"
-tags: ["讀書心得"]
-categories: ["心得"]
+tags: ["讀書心得","小說","人生"]
+categories: ["看了什麼"]
 description: ""
 cover:
   image: "cover.jpg"

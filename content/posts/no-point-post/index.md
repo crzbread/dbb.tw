@@ -3,7 +3,7 @@ title: "今天是端午 剛好很閒打點字"
 date: 2022-06-03T12:00:00+08:00
 slug: "no-point-post"
 tags: ["廢話","日常","冷水澡"]
-categories: ["碎碎念"]
+categories: ["日常小事"]
 description: ""
 cover:
   image: "cover.jpg"
