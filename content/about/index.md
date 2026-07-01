@@ -8,6 +8,6 @@ links:
     url: "https://forms.gle/97gZSavCfyM4S8eRA"
   - label: "故事調製所"
     url: "https://story.dbb.tw/"
-  - label: "Github"
-    url: "https://github.com/crzbread"
+  - label: "技術隨筆"
+    url: "https://tech.dbb.tw"
 ---
