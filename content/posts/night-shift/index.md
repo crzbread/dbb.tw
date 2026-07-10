@@ -3,7 +3,7 @@ title: "Night Shift 模式"
 date: 2017-09-04T12:00:00+08:00
 slug: "night-shift"
 tags: ["LED","光譜"]
-categories: ["其他東西"]
+categories: ["舊文章"]
 description: ""
 cover:
   image: "cover.jpg"
